@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/guoliuya/Downloads/Demo/pushsdk/libs/accs_sdk_taobao-3.3.7.2-open.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pushsdk/libs/accs_sdk_taobao-3.3.7.2-open.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

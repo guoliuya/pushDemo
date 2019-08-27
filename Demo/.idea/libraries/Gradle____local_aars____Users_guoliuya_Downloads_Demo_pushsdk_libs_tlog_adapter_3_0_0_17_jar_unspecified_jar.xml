@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/guoliuya/Downloads/Demo/pushsdk/libs/tlog_adapter-3.0.0.17.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pushsdk/libs/tlog_adapter-3.0.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
